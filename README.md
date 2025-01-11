@@ -1,2 +1,2 @@
 # Rocky-Papery-Scissory
-Simple rock-paper-scissors game.
+Simple rock-paper-scissors game, using as little "if" statements as I could. 
